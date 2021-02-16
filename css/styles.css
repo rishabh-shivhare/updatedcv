@@ -1,0 +1,107 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Kalam', cursive;
+}
+
+.top-container{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Truculenta', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Truculenta', sans-serif;
+  color: #11999E;
+}
+
+p{
+  font-size: 1.5rem;
+}
+
+a{
+  color: #11999E;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.com{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chill{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border:none;
+  border-top:4px dotted #30e3ca;
+  width:10%;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.contact-me{
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+.btn{
+  background-color: #66BFBF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 6px;
+
+}
+
+.profile_pic{
+  width: 15%;
+}
